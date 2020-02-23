@@ -1,8 +1,8 @@
-A
-B
-C
-D
-E
-F
-G
+A - Apple
+B - Banana
+C - Cucumbers
+D - Dragon Fruit
+E - Eggplant
+F - Fig
+G - Grapefruit
 
