@@ -1,13 +1,13 @@
-A
-B
-C
-D
-E
-F
-G
-H
-I
-J
+A - Apple
+B - Banana
+C - Cucumbers
+D - Dragon Fruit
+E - Eggplant
+F - Fig
+G - Grapefruit
+H - Hallon
+I - Indian Fig
+J - Jordgubbe
 K
 L
 M
