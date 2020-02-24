@@ -5,4 +5,7 @@ D - Dragon Fruit
 E - Eggplant
 F - Fig
 G - Grapefruit
+H - Hallon
+I - Indian Fig
+J - Jordgubbe
 
